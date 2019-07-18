@@ -1,0 +1,11 @@
+.zagolovok {
+    flex-direction: row;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+.zagolov{
+    display: flex;
+    flex-direction: column;
+    margin-right: 1px;
+}
